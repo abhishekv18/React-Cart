@@ -9,7 +9,7 @@ const Navbar=()=>{
             <nav className="flex items-center justify-between h-20 mx-auto max-w-4xl">
                 <NavLink to="/">
                 <div className="ml-4">
-                <img  src="../logo.png" className="h-14"/>
+               <h1 color="white">ShopFy</h1>
                 </div>
                 </NavLink>
              
